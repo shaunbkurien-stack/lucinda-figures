@@ -1,0 +1,49 @@
+{
+  "xlsx": {
+    "exists": true,
+    "size": 54985,
+    "sheets": [
+      "00 Read Me",
+      "01 Source Manifest",
+      "02 Proposal Compliance",
+      "03 Current Baseline",
+      "04 Current Schedule",
+      "05 Proposed WBS",
+      "06 Rate Register",
+      "07 Cost Build Up",
+      "08 Productivity",
+      "09 Fleet Scenarios",
+      "10 Programme",
+      "11 Comparison",
+      "12 Risks & RFIs",
+      "13 Dashboard"
+    ],
+    "formula_ref_errors": 0
+  },
+  "docx": {
+    "exists": true,
+    "size": 932943,
+    "paragraphs": 214,
+    "tables": 17
+  },
+  "pdf": {
+    "exists": true,
+    "size": 907896,
+    "pages": 15,
+    "short_pages": []
+  },
+  "md": {
+    "exists": true,
+    "size": 40798
+  },
+  "council": {
+    "exists": true,
+    "size": 9570
+  },
+  "zip": {
+    "exists": true,
+    "size": 1515399,
+    "bad_member": null,
+    "members": 8
+  }
+}
